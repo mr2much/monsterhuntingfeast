@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B4.2.3. Finders Keepers
+  m_EditorClassIdentifier: 
+  stateStoryText: "You get closer to the creature, ready to end with its miserable
+    existence, as you near it, the creature notices you and stands up willing to use
+    its remaining strength to face you, it seems it won't leave this world without
+    a final battle. The wound on its stomach keeps bleeding profusely.\r\n\n1. The
+    Stone will fight the creature.\r\n\n2. Go back and leave the loser to die alone,
+    there's no dignity in finishing such a pathetic opponent."
+  nextStoryStates:
+  - {fileID: 11400000, guid: 456f0b51aa5149b4d98bca627dda30cb, type: 2}
+  - {fileID: 11400000, guid: 96855d4c2fc86a3439f61e75d5efe077, type: 2}

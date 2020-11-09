@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B1. Something's Going On
+  m_EditorClassIdentifier: 
+  stateStoryText: "You keep walking down the path, climbing the mountain for about
+    30 minutes. You can clearly see signs of attacks along this path, as there is
+    blood splattered all over the place, some broken items and other unusable weapons
+    that lay scattered about.\r\n\n1. Keep going down the path.\r\n\n2. Wait for a
+    minute and see if something happens."
+  nextStoryStates:
+  - {fileID: 11400000, guid: 98ef1a3136ebc5449a1d1a0df7fed455, type: 2}
+  - {fileID: 11400000, guid: 9f8083f3f056e08429a352ba4fb188cd, type: 2}

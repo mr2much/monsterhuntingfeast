@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B4. Loud Noises - Clue 1
+  m_EditorClassIdentifier: 
+  stateStoryText: "The explosions sound louder and louder as you walk closer. You
+    still cannot see what's causing them.\r\n\n1. Keep walking closer and go check.\r\n\n2.
+    The Stone will better go check those tremors coming from the East.\r\n\n3. The
+    Stone is curious about the debris he saw back there."
+  nextStoryStates:
+  - {fileID: 11400000, guid: 685e578edac959d408b1b4637c59425c, type: 2}
+  - {fileID: 11400000, guid: d32c4dbaebfb43b49a57e8cccd45fedd, type: 2}
+  - {fileID: 11400000, guid: 4531cbedb441d7d4ca38135fa6012701, type: 2}

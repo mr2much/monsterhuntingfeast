@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: A1. Bad Choice of Words
+  m_EditorClassIdentifier: 
+  stateStoryText: "Otis rubs the back of his head and laughs nervously. \n\n\"Hey!
+    I was just kidding! I thought we were friends\"\n\nHe says before burting in laughter.\n\n\"Anyways,
+    I've got something that will make you happy.\"\n\nHe says while pulling a piece
+    of paper from behind the bar, and placing it on top of the counter. \n\r\n1. If
+    The Stone knew how to read, he wouldn't be risking his life hunting monsters for
+    a living.\r\n\n2. Take the piece of paper, and throw it on the ground. The Stone
+    is happy already. He doesn't need no drawing of cute animals."
+  nextStoryStates:
+  - {fileID: 11400000, guid: 8df91fc6d33b0c440989b57f77ee36ae, type: 2}
+  - {fileID: 11400000, guid: 8df91fc6d33b0c440989b57f77ee36ae, type: 2}

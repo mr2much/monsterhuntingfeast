@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B6. Remnants of a Recent Attack
+  m_EditorClassIdentifier: 
+  stateStoryText: "As you walk closer, you notice what looks like the remnants of
+    a broken down carriage.\r\n\n1. Check them out.\r\n\n2. The Stone is going to
+    walk closer to those explosions coming from the South-West.\r\n\n3. The Stone
+    is going to check the origin of those tremors coming from the East."
+  nextStoryStates:
+  - {fileID: 11400000, guid: f0941299207a78741869b116f4afe235, type: 2}
+  - {fileID: 11400000, guid: 13df2a7e68fbfea468471f2093df6d2f, type: 2}
+  - {fileID: 11400000, guid: d32c4dbaebfb43b49a57e8cccd45fedd, type: 2}

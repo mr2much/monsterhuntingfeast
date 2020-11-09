@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B4.2.1 But Only One Remains
+  m_EditorClassIdentifier: 
+  stateStoryText: "Both creatures keep fighting each other for about 15 minutes, until
+    one of them finally manages to topple the other, making it fall on its side. The
+    victorious Land Shark doesn't hesitate to open its jaws and bite its stomach off,
+    letting out a victorious roar afterwards. It then jumps and dives into the solid
+    rock as if it was water and goes away. The loser remains alive, but it doesn't
+    seem like it's going to last long. It lays on the ground bleeding.\r\n\n1. Walk
+    closer and give it the finishing blow.\r\n\n2. Go back and let the creature die,
+    there is no dignity in finishing off such a creature as pathetic as this one."
+  nextStoryStates:
+  - {fileID: 11400000, guid: ff9e318e46f266c488ed3d4566ccc713, type: 2}
+  - {fileID: 11400000, guid: 98ef1a3136ebc5449a1d1a0df7fed455, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B4.2.5. The Fallen's Pride
+  m_EditorClassIdentifier: 
+  stateStoryText: "You watch as the Land Shark struggles to stand back on its feet
+    and you simply smile while shaking your head. The pathetic creature will probably
+    die before it can take a single step in your direction. Your pride as a warrior
+    prevents you from taking advantage of this situation, as you turn your back to
+    the creature, you don't even get to notice that the creature is somehow already
+    behind you, with its enormous maw open and its shark teeth closing over your body,
+    by the time you try to react it is already too late. Its jaws close upon you on
+    its final moments. As it dies, your body is gets trapped on its throat, and you
+    both die on the spot.\r\n\n1. Continue."
+  nextStoryStates:
+  - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}

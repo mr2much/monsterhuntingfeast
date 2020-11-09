@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B6.2. Jackpot!
+  m_EditorClassIdentifier: 
+  stateStoryText: "Among the abandoned items on the carriage you find: A sword, a
+    warhammer, an axe, a set of heavy armor, a shield in pristine condition, and all
+    sorts of jewels and coins made out of gold, silver and copper inside of a small
+    chest.\r\n\n1. Take the sword.\r\n2. Take the warhammer.\r\n3. Take the axe.\r\n4.
+    Take the armor.\r\n5. Take the shield.\r\n6. Take the jewels and the money.\n7.
+    Leave everything behind! There's nothing that's worth The Stone's time in here."
+  nextStoryStates:
+  - {fileID: 11400000, guid: f283cbf8b80fc774fa4591e5cf8f939a, type: 2}
+  - {fileID: 11400000, guid: 7d544f05ae473a749bef7544564188d6, type: 2}
+  - {fileID: 11400000, guid: 139be2d190c4a8c4dbffccc218775415, type: 2}
+  - {fileID: 11400000, guid: a9e42ba1198196e44b715011e73bd70d, type: 2}
+  - {fileID: 11400000, guid: 39065fabcaaf38547ad26e54c42bafc4, type: 2}
+  - {fileID: 11400000, guid: 321704f43795adb4ca62c80dc150d1ed, type: 2}
+  - {fileID: 11400000, guid: 98ef1a3136ebc5449a1d1a0df7fed455, type: 2}

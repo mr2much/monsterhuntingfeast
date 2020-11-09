@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B4.1. Loud Noises Intensifies
+  m_EditorClassIdentifier: 
+  stateStoryText: "The explosion sounds are definitely stronger, and their intensity
+    seems to be particularly greater as you walk closer to a big rock that's about
+    50 meters further ahead.\r\n\n1. Keep walking and check what's behind that huge
+    rock.\r\n\n2. Go back to where you came from."
+  nextStoryStates:
+  - {fileID: 11400000, guid: 35126c5927ff51049a064ecc9b1160c8, type: 2}
+  - {fileID: 11400000, guid: 98ef1a3136ebc5449a1d1a0df7fed455, type: 2}

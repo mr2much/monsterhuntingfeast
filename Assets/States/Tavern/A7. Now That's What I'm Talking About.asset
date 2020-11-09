@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: A7. Now That's What I'm Talking About
+  m_EditorClassIdentifier: 
+  stateStoryText: 'On the job board you see a hand drawn image of a monster that seems
+    to be a mixture or a mole, a shark and a lizard. Below it, there are some weird
+    symbols that you recognize those pesky letters that you can''t read.
+
+
+    1. The Stone stares at the posting on the Job Board for a while, and then goes
+    back to Otis and reminds him that he doesn''t know how to read.'
+  nextStoryStates:
+  - {fileID: 11400000, guid: 8df91fc6d33b0c440989b57f77ee36ae, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: A4. Say What
+  m_EditorClassIdentifier: 
+  stateStoryText: '"Oh, that''s awesome! But that actually explains why you haven''t
+    gone hunting down that strange beast that''s been terrorizing the travelers that
+    attempt to get across The Sad Rise. You know, the one that''s posted over there."
+
+
+    He says as he juts his chin forward, pointing towards the Job Board.
+
+
+    "You might want to go and check the details before someone else takes the job."
+
+
+    1. Okay, I''ll go check it out.'
+  nextStoryStates:
+  - {fileID: 11400000, guid: 27c75095626e95944bd61f20d81be0ea, type: 2}

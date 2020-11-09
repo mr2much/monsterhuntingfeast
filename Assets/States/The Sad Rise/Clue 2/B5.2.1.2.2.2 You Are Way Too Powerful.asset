@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B5.2.1.2.2.2 You Are Way Too Powerful
+  m_EditorClassIdentifier: 
+  stateStoryText: "Suddenly, everything starts shaking, but it's not a regular earthquake,
+    it seems as if the air itself was also vibrating around you. The wind stops blowing
+    and you hear as if a large piece of cloth was tearing itself apart. You turn to
+    look in the direction where the sound is originating from and you see a blinding
+    light. Based on your previous experiences, you immediately recognize this phenomenon,
+    you have broken the Fourth Wall.\r\n\n1. \"Come with The Stone if you want to
+    leave.\" Jump in the light.\r\n\n2. \"Go ahead, jump into the light. The Stone
+    will follow you afterwards.\""
+  nextStoryStates:
+  - {fileID: 11400000, guid: cc89556a949cdb84495a7d0efeccd0ba, type: 2}
+  - {fileID: 11400000, guid: 0221d9f3a5ebd654291349bbcad7eacd, type: 2}

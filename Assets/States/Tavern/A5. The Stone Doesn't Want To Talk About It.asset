@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: A5. The Stone Doesn't Want To Talk About It
+  m_EditorClassIdentifier: 
+  stateStoryText: "\"Huh? Was it really that bad?\"\n\nHe leans forward, propping
+    his elbow on the counter and whispering:\n\n\"Does it have anything to do with
+    THAT incident?\"\n\n1. Slam the table and looks around, making sure that there's
+    no one listening to their conversation. \r\n\n2. The Stone doesn't want to talk
+    about that either"
+  nextStoryStates:
+  - {fileID: 11400000, guid: d2ddd6d7c756a3c4a9752a6f322f2d2f, type: 2}
+  - {fileID: 11400000, guid: d2ddd6d7c756a3c4a9752a6f322f2d2f, type: 2}

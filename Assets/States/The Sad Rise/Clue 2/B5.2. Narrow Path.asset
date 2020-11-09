@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B5.2. Narrow Path
+  m_EditorClassIdentifier: 
+  stateStoryText: "You start walking down the narrow that leads to a decline through
+    the mountain. You keep walking down the narrow until the mountain rises at each
+    side of you like two towering walls. After about 45 minutes of following the tremors,
+    you can now hear the sounds of rocks being cracked down accompanied by multiple
+    loud explosions and you make it to an intersection. To the left, the decline keeps
+    going further down, and up ahead, the path starts ascending.\r\n\n1. Keep walking
+    forward.\r\n\n2. Take the left path and keep going down the mountain."
+  nextStoryStates:
+  - {fileID: 11400000, guid: fa42c5a7c3149e5498f7a2bfb40e4cdb, type: 2}
+  - {fileID: 11400000, guid: fa42c5a7c3149e5498f7a2bfb40e4cdb, type: 2}

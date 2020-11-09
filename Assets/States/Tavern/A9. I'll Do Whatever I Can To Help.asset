@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: A9. I'll Do Whatever I Can To Help
+  m_EditorClassIdentifier: 
+  stateStoryText: "He nods and smiles.\n\n\"Yeah, if you wanna get paid, don't forget
+    to bring proof of the kill like last time, and you'll be good.\r\"\n\n1. You're
+    a really smart man, Otis. The Stone will now go to the place where the beast is
+    and kill it."
+  nextStoryStates:
+  - {fileID: 11400000, guid: 5500c997df9c9f74cac0da892543240d, type: 2}

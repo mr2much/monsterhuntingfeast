@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: Z1. Game Over
+  m_EditorClassIdentifier: 
+  description: Losing
+  stateStoryText: "And thus ended the famous legend of The Stone. No one was there
+    to narrate how it exactly unfolded, and his body was never found. Many assume
+    that he died on a really stupid way, doing what he liked the most. Meanwhile others
+    think that he just got trapped in another dimension, as it happened to him quite
+    frequently. But only the few that really knew him, know what really transpired
+    that day.\r\n\n1. Play again!.\r\n\n2. Let's give it a rest for today!."
+  nextStoryStates:
+  - {fileID: 11400000, guid: 86b613f6310bd224f92a36dad10bac6a, type: 2}
+  - {fileID: 11400000, guid: cc41da539d16d57499462678cef499fb, type: 2}
+  isActive: 1

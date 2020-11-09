@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: B5.2.1.2.2.2.2.1 Natural Charm
+  m_EditorClassIdentifier: 
+  stateStoryText: "Your natural charm finally convinces them that going into the light
+    is the best course of action for them, and they stare going in one by one. By
+    the time the last of them steps in you start moving forward, but it is already
+    too late, all the Land Sharks jump in the air all at the same time.\r\n\n1. \"Tell
+    The Stone's tale to others, make The Stone live forever in bardic stories.\""
+  nextStoryStates:
+  - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}
