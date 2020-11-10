@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: D1.2. Two Down, One To Go
+  m_EditorClassIdentifier: 
+  stateStoryText: "To your keen senses, it's as if these guys moved in slow motion.
+    You first take a step forward, reaching with your left hand and grabbing the handle
+    of the bald guy's axe. With the corner of your eye, you catch a glimpse of the
+    one missing all of his frontal teeth's sword, and you push your right hand forward,
+    pushing back the blade's pommel and stopping both attacks mid-swing. You turn
+    to your left and see the scarred one running towards you, both of his daggers
+    shine brightly as the sunlight reflects off their metallic surface.\r\n\n1. Headbutt
+    the skinny scarred guy.\r\n\r\n2.Take a step back, pulling the bald guy to you,
+    and use him as a meat shield.\r\n\r\n3. Kick the skinny scarred guy in the family
+    jewels."
+  nextStoryStates:
+  - {fileID: 11400000, guid: 54152473e84f03f4d97ad843dd141429, type: 2}
+  - {fileID: 11400000, guid: 7294900bb02927344bbcb8b1b8f275c2, type: 2}
+  - {fileID: 11400000, guid: 20ff9fb6c2160994ea4716c25e4eb885, type: 2}

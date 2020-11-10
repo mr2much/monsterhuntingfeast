@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: D1. Dance Dance
+  m_EditorClassIdentifier: 
+  stateStoryText: "To your right, Bret The Half-face crouches a little and reaches
+    for the dagger on his boot while he unsheathes the one on his belt, swinging them
+    at you from the top and from the bottom.\r\n\r\nToothless Bruno raises his sword
+    high above his head, coming at you from the left with a downwards arching slash.\r\n\r\nReg
+    The Shining Moon goes for a frontal assault, swinging his axe from above.\r\n\n1.
+    Grab the cooking pot shield and block the attacks.\r\n\r\n2. Step forward, and
+    reach with your hands to stop Bruno and Reg's attacks.\r\n\r\n3. Shift your body
+    to the left..\r\n\r\n4. Shift your body to the right..\r\n\r\n5. Take a step back."
+  nextStoryStates:
+  - {fileID: 11400000, guid: fd2dbd92975e8e74faa6a90a91b61728, type: 2}
+  - {fileID: 11400000, guid: 5059ba42355b4b547957de897a381254, type: 2}

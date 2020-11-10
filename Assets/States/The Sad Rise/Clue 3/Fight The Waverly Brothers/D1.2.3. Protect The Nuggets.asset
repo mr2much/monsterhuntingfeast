@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: D1.2.3. Protect The Nuggets
+  m_EditorClassIdentifier: 
+  stateStoryText: "Quickly noticing the smallest openings on the charging guy's defenses,
+    you raise your left leg, planting a firm and strong kick on his privates that
+    immediately make his voice raise a couple of pitches, causing him to stop moving
+    on his tracks as he drops his weapons and bends over, holding onto his treasures
+    crying in pain.\r\n\r\n1. Knee him on the face."
+  nextStoryStates:
+  - {fileID: 11400000, guid: d582b8e28be737740b66fd0989544bdd, type: 2}

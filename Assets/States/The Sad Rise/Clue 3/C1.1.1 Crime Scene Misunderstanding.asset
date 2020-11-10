@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: C1.1.1 Crime Scene Misunderstanding
+  m_EditorClassIdentifier: 
+  stateStoryText: "The three men exchange looks between them. The skinny one with
+    the left scar on the right side of his face smiles.\r\n\r\n\"Yeh right!, ye fink
+    da' we be fools, eh?, we no ye want th' tressure da' we found!\"\r\n\r\nThe other
+    two nod. Finally, the toothless one unsheathes his sword and says:\r\n\r\n\"But
+    we be three, n' ye be only un, mate. Ye 'ave pick'd th' wrong day ta mess wiv
+    da Waverly Bro's!\"\r\n\r\nAs soon as he says this, the three of them charge at
+    you, all attacking you at the same time.\r\n\r\n1. \"Let's do this!\""
+  nextStoryStates:
+  - {fileID: 11400000, guid: 3babbd7a2f9b73749abd8b452469139a, type: 2}

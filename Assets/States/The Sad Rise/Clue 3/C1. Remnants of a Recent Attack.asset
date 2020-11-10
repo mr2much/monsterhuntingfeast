@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: C1. Remnants of a Recent Attack
+  m_EditorClassIdentifier: 
+  stateStoryText: "As you walk closer, you see three men, they are next to what looks
+    like the remnants of a broken carriage. All three of them are kneeling down and
+    trying to force open a metallic looking coffer, by banging it repeatedly against
+    the hard rocky ground. They seem to be arguing amongst themselves and take turns
+    to try different methods to open the chest. They're so focused on this task, that
+    they don't notice you.\r\n\r\nOne of them is carrying an axe strapped behind his
+    back, the other one is carrying a sword sheathed on his scabbard, and the other
+    one has two daggers, and on his belt, and the other one on his boot. They also
+    have matching tattoos of a wolf paw on the left side of his necks.\r\n\r\n\r\n1.
+    \"Greetings, Random Citizens!\".\r\n\n2. The Stone is going to walk closer to
+    those explosions coming from the South-West.\r\n\n3. The Stone is going to check
+    the origin of those tremors coming from the East."
+  nextStoryStates:
+  - {fileID: 11400000, guid: f0941299207a78741869b116f4afe235, type: 2}
+  - {fileID: 11400000, guid: 13df2a7e68fbfea468471f2093df6d2f, type: 2}
+  - {fileID: 11400000, guid: d32c4dbaebfb43b49a57e8cccd45fedd, type: 2}

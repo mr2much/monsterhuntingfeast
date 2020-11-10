@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: C1.1 Crime Scene Investigation
+  m_EditorClassIdentifier: 
+  stateStoryText: "The three men are startled as you speak to them, and jump back
+    on their feet, readying their weapons and standing in front of the chest.\r\n\r\n\r\n\"Oi,
+    mate. Who goes thur!?\" The tall, muscular bald man asks you as he tightens his
+    grip on his axe.\r\n\r\n\r\nAs you get closer, you notice that the carriage has
+    been completely destroyed, one of the wheels is missing while the other ones have
+    all been broken down. You don't see any signs of the animals that were pulling
+    it but the reins seem to be in good condition. Next to the carriage you see various
+    items that have been piled up. There are also some rock piles forming several
+    circles around the carriage.\r\n\r\n\r\n1. \"The name is The Stone. The Stone
+    is looking for Land Sharks around these parts. Have you seen any?\"\r\n\r\n\r\n2.
+    Take a closer look at the items on the carriage."
+  nextStoryStates:
+  - {fileID: 11400000, guid: f2bdd56c057c5fe48b1d38ec734f7946, type: 2}
+  - {fileID: 11400000, guid: 2f9454d944495314a8dbf77e17c65961, type: 2}
