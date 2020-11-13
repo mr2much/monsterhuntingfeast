@@ -39,5 +39,7 @@ MonoBehaviour:
     1. Start the game.
 
 '
+  optionsText:
+  - Starte the game.
   nextStoryStates:
   - {fileID: 11400000, guid: 86b613f6310bd224f92a36dad10bac6a, type: 2}
