@@ -18,11 +18,13 @@ MonoBehaviour:
     your chin held high towards Otis, who greets you from behind the counter and starts
     pouring you a mug of Tree-Spirits beer.\r\n\r\n\"Stone, my man. It's been a while
     since I last saw your ugly face around these parts\"\r\n\r\nOtis says with a hearty
-    laugh, sliding the mug towards your seat.\r\n\r\nWhat does The Stone say?\r\n\n1.
-    Well, The Stone didn't want to see your ugly face either.\n\n2. The Stone was
-    busy becoming a hero and getting renown.\n\n3. The Stone was trapped in another
-    dimension."
+    laugh, sliding the mug towards your seat.\r"
+  optionsText:
+  - '"Well, The Stone didn''t want to see your ugly face either."'
+  - '"The Stone was busy becoming a hero and getting renown."'
+  - '"The Stone was trapped in another dimension."'
   nextStoryStates:
   - {fileID: 11400000, guid: 19d786766cfe9bc429e5e71b4263d9e0, type: 2}
   - {fileID: 11400000, guid: c90b25c14d66e6247afd83744bfd1d6d, type: 2}
   - {fileID: 11400000, guid: 35e34b4b76bd9914f81d1b6091313192, type: 2}
+  active: 1

@@ -24,7 +24,12 @@ MonoBehaviour:
     \"Greetings, Random Citizens!\".\r\n\n2. The Stone is going to walk closer to
     those explosions coming from the South-West.\r\n\n3. The Stone is going to check
     the origin of those tremors coming from the East."
+  optionsText:
+  - '''Greetings, Random Citizens!"'
+  - The Stone is going to walk closer to those explosions coming from the South-West.
+  - The Stone is going to check the origin of those tremors coming from the East.
   nextStoryStates:
   - {fileID: 11400000, guid: f0941299207a78741869b116f4afe235, type: 2}
   - {fileID: 11400000, guid: 13df2a7e68fbfea468471f2093df6d2f, type: 2}
   - {fileID: 11400000, guid: d32c4dbaebfb43b49a57e8cccd45fedd, type: 2}
+  active: 1

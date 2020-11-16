@@ -12,15 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
   m_Name: A8. Dumb As A Rock
   m_EditorClassIdentifier: 
-  stateStoryText: "Otis shakes his head, takes a deep breath and starts talking slowly.\n\n\"Look,
-    some weird creature that everyone keeps calling 'Land Shark' has been attacking
-    anyone that takes the path through The Sad Rise for the past week. They are offering
-    a huge reward to whomever kill the beast and brings any part of its body.\n\n1.
-    The Stone finishes his drink in one big gulp and slams the mug on the counter,
+  stateStoryText: 'Otis shakes his head, takes a deep breath and starts talking slowly.
+
+
+    "Look, some weird creature that everyone keeps calling ''Land Shark'' has been
+    attacking anyone that takes the path through The Sad Rise for the past week. They
+    are offering a huge reward to whomever kill the beast and brings any part of its
+    body.'
+  optionsText:
+  - The Stone finishes his drink in one big gulp and slams the mug on the counter,
     cleaning his mouth with his forearm and says goodbye to Otis, as soon as he's
-    out of the tavern, he starts running straight to where the creature was last spotted.\r\n\n2.
-    Ask Otis if he has any tips that he could share with The Stone that would make
-    this hunt easier."
+    out of the tavern, he starts running straight to where the creature was last spotted.
+  - '"Do you have any advice for The Stone, Otis?"'
   nextStoryStates:
   - {fileID: 11400000, guid: 5500c997df9c9f74cac0da892543240d, type: 2}
   - {fileID: 11400000, guid: b48faab53552c8b43b36ffc120c61506, type: 2}
+  active: 1

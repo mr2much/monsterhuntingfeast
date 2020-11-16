@@ -32,14 +32,10 @@ MonoBehaviour:
     see the result on the next stage.
 
 
-    If at any point of the gameplay you wish to quit the game, simply press the "q"
-    button to do so.
-
-
-    1. Start the game.
-
-'
+    If at any point of the gameplay you wish to quit the game, simply close the tab
+    on your browser that has the game running.'
   optionsText:
-  - Starte the game.
+  - Start the game.
   nextStoryStates:
   - {fileID: 11400000, guid: 86b613f6310bd224f92a36dad10bac6a, type: 2}
+  active: 1

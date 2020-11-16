@@ -20,6 +20,9 @@ MonoBehaviour:
     behind you, with its enormous maw open and its shark teeth closing over your body,
     by the time you try to react it is already too late. Its jaws close upon you on
     its final moments. As it dies, your body is gets trapped on its throat, and you
-    both die on the spot.\r\n\n1. Continue."
+    both die on the spot.\r"
+  optionsText:
+  - Continue.
   nextStoryStates:
   - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}
+  active: 1

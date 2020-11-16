@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
   m_Name: A3. Dimension Travel, Again
   m_EditorClassIdentifier: 
-  stateStoryText: "\"Again?, mind telling me what happened?\"\n\n1. Tell him.\r\n\n2.
-    Don't tell him"
+  stateStoryText: '"Again?, mind telling me what happened?"'
+  optionsText:
+  - Tell Him
+  - Don't tell him.
   nextStoryStates:
   - {fileID: 11400000, guid: 7a7d57def7b2b544996cfe52f03edca7, type: 2}
   - {fileID: 11400000, guid: 1a0e688ca8d1a7b49a1f7cf0a105d9ce, type: 2}
+  active: 1

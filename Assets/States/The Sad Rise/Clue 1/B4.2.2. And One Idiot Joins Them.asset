@@ -22,6 +22,9 @@ MonoBehaviour:
     same time, at first they're dumbfounded, and then angry, until they finally notice
     that you are an enticing meal. One of the Land Sharks sinks into the earth, completely
     disappearing from your field of vision, while the other one charges you at full
-    sprint.\r\n\n1. Continue."
+    sprint.\r"
+  optionsText:
+  - Continue.
   nextStoryStates:
   - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}
+  active: 1

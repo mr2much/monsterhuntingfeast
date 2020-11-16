@@ -14,11 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stateStoryText: "You see two Land Sharks fighting, both of them ramming against
     each other with the strength of two hammers being smashed together. They're so
-    focused on beating one another that they don't even notice your presence.\r\n\n1.
-    Stay hidden observing them, and wait for the right moment.\r\n\n2. The Stone will
-    take this chance to attack them, now that they are distracted.\r\n\n3. This is
-    not worth it. The Stone is going back."
+    focused on beating one another that they don't even notice your presence.\r"
+  optionsText:
+  - Stay hidden observing them, and wait for the right moment.
+  - The Stone will take this chance to attack them, now that they are distracted fighting
+    one another.
+  - It is not worth risking it. The Stone is going back.
   nextStoryStates:
   - {fileID: 11400000, guid: c9f2a0857b84ac64bb6a6280c4f70c53, type: 2}
   - {fileID: 11400000, guid: 99a057f31fa1b8f418583aa4934a369d, type: 2}
   - {fileID: 11400000, guid: 98ef1a3136ebc5449a1d1a0df7fed455, type: 2}
+  active: 1

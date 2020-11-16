@@ -21,6 +21,11 @@ public class State : ScriptableObject
         return optionsText;
     }
 
+    public string GetOption(int index)
+    {        
+        return optionsText[index];
+    }
+
     public State[] GetNextStoryStates()
     {
         return this.nextStoryStates;

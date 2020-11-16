@@ -16,11 +16,14 @@ MonoBehaviour:
     the sound of its jaws snapping shut reverberate across the rocky terrain, but
     it is too weak and has lost way too much blood, its movements are slow and easy
     to dodge for someone as experienced as you are. After a few minutes of struggling,
-    the animal bleeds to death and falls limply on the ground.\r\n\n1. The Stone will
-    use The Stone's ladle to remove the creature's eyes, y the Land Shark's teeth
-    as well as its tongue. The Stone will store them on The Stone's magical Bag of
-    Ingredients Preservation.\r\n\n2. Walk away and leave the spoils behind, The Stone
-    was not the one that killed the beast."
+    the animal bleeds to death and falls limply on the ground.\r"
+  optionsText:
+  - The Stone will use The Stone's ladle to remove the creature's eyes, remove some
+    of the Land Shark's teeth and cut off its tongue. The Stone will store them on
+    The Stone's magical Bag of Ingredients Preservation.
+  - Walk away and leave the spoils behind, The Stone was not the one that killed the
+    beast.
   nextStoryStates:
   - {fileID: 11400000, guid: 6f4e5cbbb4e05514294983ea4d0d8cab, type: 2}
   - {fileID: 11400000, guid: 98ef1a3136ebc5449a1d1a0df7fed455, type: 2}
+  active: 1

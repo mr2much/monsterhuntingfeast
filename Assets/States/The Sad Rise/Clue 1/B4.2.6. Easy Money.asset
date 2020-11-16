@@ -17,6 +17,12 @@ MonoBehaviour:
     was a long day, The Stone will return to The Sleeping Dragon and will take a well
     deserved break.\r\n\n2. The Stone will go back and keep checking the other clues
     he noticed. It must mean that there are more Land Sharks around these parts."
+  optionsText:
+  - It was a long day, The Stone will return to The Sleeping Dragon and will take
+    a well deserved break.
+  - The Stone will go back and keep checking the other clues he noticed. It must mean
+    that there are more Land Sharks around these parts.
   nextStoryStates:
   - {fileID: 11400000, guid: 2c763a9e4f0c7be4e8bea409ca56ee31, type: 2}
   - {fileID: 11400000, guid: 98ef1a3136ebc5449a1d1a0df7fed455, type: 2}
+  active: 1

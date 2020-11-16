@@ -13,10 +13,13 @@ MonoBehaviour:
   m_Name: B4. Loud Noises - Clue 1
   m_EditorClassIdentifier: 
   stateStoryText: "The explosions sound louder and louder as you walk closer. You
-    still cannot see what's causing them.\r\n\n1. Keep walking closer and go check.\r\n\n2.
-    The Stone will better go check those tremors coming from the East.\r\n\n3. The
-    Stone is curious about the debris he saw back there."
+    still cannot see what's causing them.\r"
+  optionsText:
+  - Keep walking closer and go check.
+  - The Stone will better go check those tremors coming from the East.
+  - The Stone is curious about the debris he saw back there.
   nextStoryStates:
   - {fileID: 11400000, guid: 685e578edac959d408b1b4637c59425c, type: 2}
   - {fileID: 11400000, guid: d32c4dbaebfb43b49a57e8cccd45fedd, type: 2}
   - {fileID: 11400000, guid: 4531cbedb441d7d4ca38135fa6012701, type: 2}
+  active: 1

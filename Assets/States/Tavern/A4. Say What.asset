@@ -20,9 +20,9 @@ MonoBehaviour:
     He says as he juts his chin forward, pointing towards the Job Board.
 
 
-    "You might want to go and check the details before someone else takes the job."
-
-
-    1. Okay, I''ll go check it out.'
+    "You might want to go and check the details before someone else takes the job."'
+  optionsText:
+  - '"Okay, The Stone will go check it out."'
   nextStoryStates:
   - {fileID: 11400000, guid: 27c75095626e95944bd61f20d81be0ea, type: 2}
+  active: 1

@@ -14,8 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stateStoryText: "The explosion sounds are definitely stronger, and their intensity
     seems to be particularly greater as you walk closer to a big rock that's about
-    50 meters further ahead.\r\n\n1. Keep walking and check what's behind that huge
-    rock.\r\n\n2. Go back to where you came from."
+    50 meters further ahead.\r"
+  optionsText:
+  - Keep walking and check what's behind that huge rock.
+  - Go back to where you came from.
   nextStoryStates:
   - {fileID: 11400000, guid: 35126c5927ff51049a064ecc9b1160c8, type: 2}
   - {fileID: 11400000, guid: 98ef1a3136ebc5449a1d1a0df7fed455, type: 2}
+  active: 1

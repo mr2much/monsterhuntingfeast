@@ -15,10 +15,13 @@ MonoBehaviour:
   stateStoryText: "Otis rubs the back of his head and laughs nervously. \n\n\"Hey!
     I was just kidding! I thought we were friends\"\n\nHe says before burting in laughter.\n\n\"Anyways,
     I've got something that will make you happy.\"\n\nHe says while pulling a piece
-    of paper from behind the bar, and placing it on top of the counter. \n\r\n1. If
-    The Stone knew how to read, he wouldn't be risking his life hunting monsters for
-    a living.\r\n\n2. Take the piece of paper, and throw it on the ground. The Stone
-    is happy already. He doesn't need no drawing of cute animals."
+    of paper from behind the bar, and placing it on top of the counter. "
+  optionsText:
+  - '"If The Stone knew how to read, he wouldn''t be risking his life hunting monsters
+    for a living."'
+  - Take the piece of paper, and throw it on the ground. "The Stone is happy already.
+    The Stone doesn't need no drawing of cute animals."
   nextStoryStates:
   - {fileID: 11400000, guid: 8df91fc6d33b0c440989b57f77ee36ae, type: 2}
   - {fileID: 11400000, guid: 8df91fc6d33b0c440989b57f77ee36ae, type: 2}
+  active: 1

@@ -12,13 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
   m_Name: B3. Time For Some Good Old Fashioned Tracking
   m_EditorClassIdentifier: 
-  stateStoryText: "When you arrive at a plain, you find these clues.\r\n\n1. The Stone
-    hears several explosions coming from the South-West, The Stone cannot see what
-    is causing them. The Stone is going to walk closer.\r\n\n2. The Stone feels some
-    faint tremors coming from the East. The Stone is going to go check them.\r\n\n3.
-    The Stone is going to go check that debris that's a couple of steps just ahead
-    and looks completely out of place on this rocky terrain."
+  stateStoryText: "When you arrive at a plain, you find these clues.\r"
+  optionsText:
+  - The Stone hears several explosions coming from the South-West, The Stone cannot
+    see what is causing them. The Stone is going to walk closer.
+  - The Stone feels some faint tremors coming from the East. The Stone is going to
+    go check them.
+  - The Stone is going to go check that debris that's a couple of steps just ahead,
+    and looks completely out of place on this rocky terrain.
   nextStoryStates:
   - {fileID: 11400000, guid: 13df2a7e68fbfea468471f2093df6d2f, type: 2}
   - {fileID: 11400000, guid: d32c4dbaebfb43b49a57e8cccd45fedd, type: 2}
   - {fileID: 11400000, guid: 4531cbedb441d7d4ca38135fa6012701, type: 2}
+  active: 1

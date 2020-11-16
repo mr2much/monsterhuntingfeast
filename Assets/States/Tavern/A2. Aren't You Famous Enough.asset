@@ -19,9 +19,9 @@ MonoBehaviour:
 
 
     "Anyways, I think that there''s something on the Job Board that could make you
-    even more famous than you already are, Stone."
-
-
-    1. Go check the Job Board'
+    even more famous than you already are, Stone."'
+  optionsText:
+  - Go check the Job Board.
   nextStoryStates:
   - {fileID: 11400000, guid: 27c75095626e95944bd61f20d81be0ea, type: 2}
+  active: 1
