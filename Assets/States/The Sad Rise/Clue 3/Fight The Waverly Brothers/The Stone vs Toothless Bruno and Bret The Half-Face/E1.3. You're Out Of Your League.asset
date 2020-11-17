@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: E1.3. You're Out Of Your League
+  m_EditorClassIdentifier: 
+  stateStoryText: "You reach with your left hand for the scrawny guy's face, squeezing
+    it firmly.\r\n\r\n1. Feed him some minerals.\r\n\r\n2. Push him back."
+  optionsText:
+  - Feed him some minerals.
+  - Push him back.
+  nextStoryStates:
+  - {fileID: 11400000, guid: 137acea2cf6e73549ab19292b182ad76, type: 2}
+  - {fileID: 11400000, guid: 8866a982b8c5fc24ca6c4ab284336e7a, type: 2}
+  active: 1

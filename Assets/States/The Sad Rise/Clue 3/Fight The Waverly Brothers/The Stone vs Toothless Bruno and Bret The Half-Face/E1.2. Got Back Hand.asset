@@ -10,9 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
-  m_Name: State 7
+  m_Name: E1.2. Got Back Hand
   m_EditorClassIdentifier: 
-  stateStoryText: 
-  optionsText: []
-  nextStoryStates: []
+  stateStoryText: "You slap the scrawny man on the face. He falls to the floor, rubbing
+    his face as he looks at you in abject terror. You turn to look at the guy still
+    holding onto his sword.\r"
+  optionsText:
+  - '"Do we keep going?"'
+  nextStoryStates:
+  - {fileID: 11400000, guid: 4474099979c51d44a97d813d2711759d, type: 2}
   active: 1
