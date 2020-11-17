@@ -15,6 +15,9 @@ MonoBehaviour:
   stateStoryText: "You try blocking their attacks with your cooking pot shield, but
     they are too close, and there's not enough time. You barely manage to move when
     all attacks land on your body at the same time. All you hear before everything
-    goes black is the mocking remarks of the brothers.\r\n\r\n1. Game Over!"
+    goes black is the mocking remarks of the brothers.\r"
+  optionsText:
+  - Game Over!
   nextStoryStates:
   - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}
+  active: 1

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: F1.2. Game's Over
+  m_EditorClassIdentifier: 
+  stateStoryText: "You vertically slash the skinny guy. Killing him.\r\n\r\nGuy on
+    the ground begs for his life.\r"
+  optionsText:
+  - '"Okay, The Stone will let you go! Just make sure to tell the tale about your
+    encounter with The Stone, and tell it well. So that many can write songs and tell
+    stories about The Stone."'
+  - Kill Him.
+  nextStoryStates:
+  - {fileID: 11400000, guid: 185379bc8abcd7c4db65d2d830c88f8d, type: 2}
+  - {fileID: 11400000, guid: 84498153bb6f6fa43ba7b0728cae039d, type: 2}
+  active: 1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: F1.3.2.1. Showstopper
+  m_EditorClassIdentifier: 
+  stateStoryText: "You grab him and lift him above your head.\r"
+  optionsText:
+  - Keep him in the air.
+  - Finish him with a back breaker.
+  nextStoryStates:
+  - {fileID: 11400000, guid: 7700b8844d0db7d42836835b6a87f09c, type: 2}
+  - {fileID: 11400000, guid: 1314dd5b277ae1f4d94dfb6904ed4f38, type: 2}
+  active: 1

@@ -18,11 +18,13 @@ MonoBehaviour:
     one missing all of his frontal teeth's sword, and you push your right hand forward,
     pushing back the blade's pommel and stopping both attacks mid-swing. You turn
     to your left and see the scarred one running towards you, both of his daggers
-    shine brightly as the sunlight reflects off their metallic surface.\r\n\n1. Headbutt
-    the skinny scarred guy.\r\n\r\n2.Take a step back, pulling the bald guy to you,
-    and use him as a meat shield.\r\n\r\n3. Kick the skinny scarred guy in the family
-    jewels."
+    shine brightly as the sunlight reflects off their metallic surface.\r"
+  optionsText:
+  - Headbutt the scrawny guy.
+  - Take a step back, pulling the bald guy towards you, and use him as a meat shield.
+  - Kick the skinny guy in the family jewels.
   nextStoryStates:
   - {fileID: 11400000, guid: 54152473e84f03f4d97ad843dd141429, type: 2}
   - {fileID: 11400000, guid: 7294900bb02927344bbcb8b1b8f275c2, type: 2}
   - {fileID: 11400000, guid: 20ff9fb6c2160994ea4716c25e4eb885, type: 2}
+  active: 1

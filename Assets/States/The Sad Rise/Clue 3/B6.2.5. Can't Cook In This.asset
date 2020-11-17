@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: B6.2.5. Can't Cook In This
   m_EditorClassIdentifier: 
   stateStoryText: "The Stone stares derisively at the Shield. \"The Stone's cooking
-    pot works perfectly well as a shield, and The Stone can cook in it.\"\r\n\r\n1.
-    Throw the shield away."
+    pot works perfectly well as a shield, and The Stone can cook in it.\"\r"
+  optionsText:
+  - Throw the shield away.
   nextStoryStates:
-  - {fileID: 11400000, guid: 2f9454d944495314a8dbf77e17c65961, type: 2}
+  - {fileID: 11400000, guid: 364d6298d746e80439dda94b12da276e, type: 2}
+  active: 1

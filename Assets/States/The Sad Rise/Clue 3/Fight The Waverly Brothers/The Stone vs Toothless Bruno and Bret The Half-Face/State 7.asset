@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
-  m_Name: State 2
+  m_Name: State 7
   m_EditorClassIdentifier: 
   stateStoryText: 
+  optionsText: []
   nextStoryStates: []
+  active: 1

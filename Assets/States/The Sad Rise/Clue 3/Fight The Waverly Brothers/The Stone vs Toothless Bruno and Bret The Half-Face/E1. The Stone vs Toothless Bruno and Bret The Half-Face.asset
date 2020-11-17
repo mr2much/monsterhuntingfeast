@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: E1. The Stone vs Toothless Bruno and Bret The Half-Face
+  m_EditorClassIdentifier: 
+  stateStoryText: "Your voice makes both men react as if they were awakened from a
+    trance. The toothless one starts frantically trying to release his sword from
+    your grip while the slender one spreads his arms open around you, both daggers
+    pointed in towards your body, he trusts them forward trying to dig his knives
+    into both of your kidneys at once.\r"
+  optionsText:
+  - Block the attack with the toothless guy' sword.
+  - Pimp slap the skinny guy.
+  - Grab the skinny guy's face.
+  nextStoryStates:
+  - {fileID: 11400000, guid: ff0e4036781fde44da4258538481ec45, type: 2}
+  - {fileID: 11400000, guid: 57f9687c8f728d042b20333f264c0e36, type: 2}
+  - {fileID: 11400000, guid: 207431e724ca2d6458e386808f293c90, type: 2}
+  active: 1

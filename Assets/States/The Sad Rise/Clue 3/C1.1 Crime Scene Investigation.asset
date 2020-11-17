@@ -20,9 +20,12 @@ MonoBehaviour:
     all been broken down. You don't see any signs of the animals that were pulling
     it but the reins seem to be in good condition. Next to the carriage you see various
     items that have been piled up. There are also some rock piles forming several
-    circles around the carriage.\r\n\r\n\r\n1. \"The name is The Stone. The Stone
-    is looking for Land Sharks around these parts. Have you seen any?\"\r\n\r\n\r\n2.
-    Take a closer look at the items on the carriage."
+    circles around the carriage.\r"
+  optionsText:
+  - '"The name is The Stone, The Stone is looking for Land Sharks around these parts.
+    Have you seen any?'
+  - Take a closer look at the items on the carriage.
   nextStoryStates:
   - {fileID: 11400000, guid: f2bdd56c057c5fe48b1d38ec734f7946, type: 2}
   - {fileID: 11400000, guid: 2f9454d944495314a8dbf77e17c65961, type: 2}
+  active: 1

@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: D1.2.1 Sounded Epic In My Head
   m_EditorClassIdentifier: 
   stateStoryText: "You quickly realize that charging at two sharp objects head first
-    was not such a good idea. At least you were rapidly dispatched.\r\n\r\n1. Game
-    Over!"
+    was not such a good idea. At least you were rapidly dispatched.\r"
+  optionsText:
+  - Game Over!
   nextStoryStates:
   - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}
+  active: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: F1.1. Coup de Grace
+  m_EditorClassIdentifier: 
+  stateStoryText: "You raise your arm above your head, holding the blade in a reverse
+    grip, you jump slightly before bringing the sword downawrds, plunging it through
+    the guy's back, piercing his heart. The last brother lets out a scream filled
+    with anger and desperation, and charges at you with blind rage, while a pool of
+    blood starts forming bellow the toothless man's body.\r"
+  optionsText:
+  - Grab the guy, and lift him in the air.
+  - Thrust the sword forward.
+  nextStoryStates:
+  - {fileID: 11400000, guid: 1afb2f1d0aee09d4097b6ee0c4f8e7a2, type: 2}
+  - {fileID: 11400000, guid: cc5188f138b681348a0fe7b1be4e4c25, type: 2}
+  active: 1

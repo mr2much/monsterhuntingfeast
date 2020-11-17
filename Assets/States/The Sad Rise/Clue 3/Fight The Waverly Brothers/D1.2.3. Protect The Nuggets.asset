@@ -16,6 +16,9 @@ MonoBehaviour:
     you raise your left leg, planting a firm and strong kick on his privates that
     immediately make his voice raise a couple of pitches, causing him to stop moving
     on his tracks as he drops his weapons and bends over, holding onto his treasures
-    crying in pain.\r\n\r\n1. Knee him on the face."
+    crying in pain.\r"
+  optionsText:
+  - Knee him on the face.
   nextStoryStates:
   - {fileID: 11400000, guid: d582b8e28be737740b66fd0989544bdd, type: 2}
+  active: 1

@@ -16,6 +16,9 @@ MonoBehaviour:
     Without letting go of the other two guys, you quickly raise you knee and hit the
     skinny guy's face while he's bent over. Hitting him with enough strength to make
     him fall on his face, unconscious. Then you turn to the other two guys, who look
-    at you in shock.\r\n\r\n1. \"So, where were we?\""
+    at you in shock.\r"
+  optionsText:
+  - '"So, where were we?"'
   nextStoryStates:
   - {fileID: 11400000, guid: 7afc575063922eb428166418bd7567c2, type: 2}
+  active: 1

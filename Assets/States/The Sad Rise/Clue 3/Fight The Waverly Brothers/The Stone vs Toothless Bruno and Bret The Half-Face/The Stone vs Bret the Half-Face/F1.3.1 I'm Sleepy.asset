@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: F1.3.1 I'm Sleepy
+  m_EditorClassIdentifier: 
+  stateStoryText: "The scrawny guy finally realizes he's not a match for you. He begs
+    for his and his brother's life.\r"
+  optionsText:
+  - Let them go!
+  - No mercy!
+  nextStoryStates:
+  - {fileID: 11400000, guid: 185a32ff746159f4b93d58f34f1f5f84, type: 2}
+  - {fileID: 11400000, guid: 697390be7351c3c44af76dff0ee28ee8, type: 2}
+  active: 1

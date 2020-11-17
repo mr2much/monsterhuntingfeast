@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: E1.1. Mind If I Use This
+  m_EditorClassIdentifier: 
+  stateStoryText: "Without hesitation, you tug on the guy's sword while he's still
+    firmly grasping it, causing him to lose his balance as he tried to prevent you
+    from doing so, but you overpower him easily. You manage to swing the sword as
+    if it was nothing, making sparks fly as you parry both daggers before they get
+    even close to wounding you.\r\n\r\n1. Kick the toothless guy.\r\n\r\n2. Grab the
+    ladle."
+  optionsText:
+  - Kick the toothless guy.
+  - Grab the ladle.
+  nextStoryStates:
+  - {fileID: 11400000, guid: eaebf48fcce31ec48b9e6a08e264a7fe, type: 2}
+  - {fileID: 11400000, guid: c90a50fefca6fc3428d6ee13a769a23e, type: 2}
+  active: 1

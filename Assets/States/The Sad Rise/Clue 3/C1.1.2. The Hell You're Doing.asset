@@ -15,6 +15,9 @@ MonoBehaviour:
   stateStoryText: "As you try to take a closer look at the items, the three men step
     to the front.\r\n\r\n\"Tis' un's got a death wish, brothers!\"\r\n\r\nThe bald
     man says laughing, as they all ready their weapons, and charge at you. Clearly
-    intending to kill you.\r\n\r\r\n\r1. \"Bring it!\""
+    intending to kill you.\r"
+  optionsText:
+  - '"Bring it!"'
   nextStoryStates:
   - {fileID: 11400000, guid: 3babbd7a2f9b73749abd8b452469139a, type: 2}
+  active: 1

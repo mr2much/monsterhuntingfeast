@@ -21,7 +21,9 @@ MonoBehaviour:
     You let go of his hand to finally allow him to fall limply to the ground, dead,
     his axe landing next to him, making a clanking noise as the metal hits the rocky
     floor of the mountain. Both fighters stare at the body wide-eyed, as your eyes
-    glide between the both of them until a grin forms on your face.\r\n\r\n1. \"One
-    down!\""
+    glide between the both of them until a grin forms on your face.\r"
+  optionsText:
+  - '"One down!"'
   nextStoryStates:
   - {fileID: 11400000, guid: bfa1c3029ee701a4e979bf671e21e93f, type: 2}
+  active: 1

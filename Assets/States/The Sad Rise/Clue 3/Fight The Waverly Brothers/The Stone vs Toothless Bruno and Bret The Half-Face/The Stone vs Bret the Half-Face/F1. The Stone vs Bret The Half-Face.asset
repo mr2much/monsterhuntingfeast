@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: F1. The Stone vs Bret The Half-Face
+  m_EditorClassIdentifier: 
+  stateStoryText: "You get annoyed of the guy still dangling from the sword, holding
+    on to it with both hands. You kick him on the stomach, making him finally let
+    go of it. You wave the sword masterfully, showing off your skills with the weapon.\r"
+  optionsText:
+  - Sheathe the sword on the guy's back.
+  - Vertically slash the bony guy.
+  - Put the toothless guy to sleep.
+  nextStoryStates:
+  - {fileID: 11400000, guid: de155fc0ca8b3cf498f49a346310f218, type: 2}
+  - {fileID: 11400000, guid: 67f25bc6a6e044b4b9c7a2a1848fbb64, type: 2}
+  - {fileID: 11400000, guid: 21c7891935ce38b4e8bf8e02279599eb, type: 2}
+  active: 1

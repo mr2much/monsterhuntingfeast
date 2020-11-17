@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: F2.1 Unbeatable
+  m_EditorClassIdentifier: 
+  stateStoryText: "Clang! Clang! Both daggers fly out of his hands as he takes a couple
+    of steps back. He looks at his empty hands in disbelief and then gives his brother
+    a questioning look.\r\n\r\n\"We yield! We yield!\"\r\n\r\nThe toothless guy on
+    the floor lets out a desperate plea.\r\n\r\n\"Last fing we be nee'n is sum guy
+    beat'n us wiv cook were! Let 's go, 'n ye ain't eva seen' us again!\"\r"
+  optionsText:
+  - '"Okay, The Stone will let you go! Just make sure you tell about your encounter
+    with The Stone, and tell it well. So that The Stone might live forever in stories,
+    poems and songs about how badass The Stone was."'
+  - '"No one tells The Stone what to do!"'
+  nextStoryStates:
+  - {fileID: 11400000, guid: 5376918a7b9feb54aa47a6d3727592a6, type: 2}
+  - {fileID: 11400000, guid: 324977174e5a1e14488d5ecdc5190c45, type: 2}
+  active: 1

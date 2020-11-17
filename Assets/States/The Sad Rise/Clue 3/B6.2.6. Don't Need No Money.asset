@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: B6.2.6. Don't Need No Money
   m_EditorClassIdentifier: 
   stateStoryText: "The Stone reaches for the jewels, but then pauses and ponders.
-    Saying out loud: \"When The Stone becomes famous people will give stuff for free
-    to The Stone. The Stone doesn't need any money.\"\r\n\r\n1. Ignore the money."
+    Saying out loud: \"When The Stone becomes famous, people will give stuff for free
+    to The Stone. The Stone doesn't need any money.\"\r"
+  optionsText:
+  - Ignore the money!
   nextStoryStates:
-  - {fileID: 11400000, guid: 2f9454d944495314a8dbf77e17c65961, type: 2}
+  - {fileID: 11400000, guid: 364d6298d746e80439dda94b12da276e, type: 2}
+  active: 1

@@ -18,6 +18,9 @@ MonoBehaviour:
     two nod. Finally, the toothless one unsheathes his sword and says:\r\n\r\n\"But
     we be three, n' ye be only un, mate. Ye 'ave pick'd th' wrong day ta mess wiv
     da Waverly Bro's!\"\r\n\r\nAs soon as he says this, the three of them charge at
-    you, all attacking you at the same time.\r\n\r\n1. \"Let's do this!\""
+    you, all attacking you at the same time.\r"
+  optionsText:
+  - '"Let''s do this!"'
   nextStoryStates:
   - {fileID: 11400000, guid: 3babbd7a2f9b73749abd8b452469139a, type: 2}
+  active: 1

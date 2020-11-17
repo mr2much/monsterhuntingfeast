@@ -13,6 +13,9 @@ MonoBehaviour:
   m_Name: B6.2.2. The Carpenter
   m_EditorClassIdentifier: 
   stateStoryText: "What would The Stone do with a hammer? Fix a table? The Stone is
-    not a carpenter.\r\n\n1. Put it back!."
+    not a carpenter.\r"
+  optionsText:
+  - Put it back!
   nextStoryStates:
-  - {fileID: 11400000, guid: 2f9454d944495314a8dbf77e17c65961, type: 2}
+  - {fileID: 11400000, guid: 364d6298d746e80439dda94b12da276e, type: 2}
+  active: 1

@@ -13,6 +13,9 @@ MonoBehaviour:
   m_Name: B6.2.4 It Doesn't Fit
   m_EditorClassIdentifier: 
   stateStoryText: "The Stone doesn't fit in this tiny armor and The Stone is not willing
-    to lose muscle to don it.\r\n\r\n1. Put it back."
+    to lose muscle to don it.\r"
+  optionsText:
+  - Put it back!
   nextStoryStates:
-  - {fileID: 11400000, guid: 2f9454d944495314a8dbf77e17c65961, type: 2}
+  - {fileID: 11400000, guid: 364d6298d746e80439dda94b12da276e, type: 2}
+  active: 1

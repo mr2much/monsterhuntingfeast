@@ -15,8 +15,7 @@ MonoBehaviour:
   stateStoryText: "You keep walking down the path, climbing the mountain for about
     30 minutes. You can clearly see signs of attacks along this path, as there is
     blood splattered all over the place, some broken items and other unusable weapons
-    that lay scattered about.\r\n\n1. Keep going down the path.\r\n\n2. Wait for a
-    minute and see if something happens."
+    that lay scattered about.\r"
   optionsText:
   - Keep going down the path.
   - Wait for a minute and see if something happens.

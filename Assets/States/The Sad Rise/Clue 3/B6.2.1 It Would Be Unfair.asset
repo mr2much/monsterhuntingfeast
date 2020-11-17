@@ -13,6 +13,9 @@ MonoBehaviour:
   m_Name: B6.2.1 It Would Be Unfair
   m_EditorClassIdentifier: 
   stateStoryText: "The Stone is unbeatable with a ladle, it would be unfair to The
-    Stone's opponents for The Stone to have a sword.\r\n\n1. Put it back!"
+    Stone's opponents for The Stone to have a sword.\r"
+  optionsText:
+  - Put it back!
   nextStoryStates:
-  - {fileID: 11400000, guid: 2f9454d944495314a8dbf77e17c65961, type: 2}
+  - {fileID: 11400000, guid: 364d6298d746e80439dda94b12da276e, type: 2}
+  active: 1

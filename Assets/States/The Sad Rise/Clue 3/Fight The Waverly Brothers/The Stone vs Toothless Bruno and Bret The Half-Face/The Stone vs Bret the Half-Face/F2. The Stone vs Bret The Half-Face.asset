@@ -10,7 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
-  m_Name: AState 1
+  m_Name: F2. The Stone vs Bret The Half-Face
   m_EditorClassIdentifier: 
-  stateStoryText: 
-  nextStoryStates: []
+  stateStoryText: You grab the ladle. The skinny guy is confused, but charges you,
+    slashing at you twice with his daggers.
+  optionsText:
+  - Deflect his daggers with your ladle.
+  nextStoryStates:
+  - {fileID: 11400000, guid: fbd5d1bf1988cdb4a9ff96dd153624e7, type: 2}
+  active: 1
