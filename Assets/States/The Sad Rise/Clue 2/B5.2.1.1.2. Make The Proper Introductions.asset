@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: B5.2.1.1.2. Make The Proper Introductions
   m_EditorClassIdentifier: 
   stateStoryText: "Greetings pathetic regular citizens, fear no more, for The Stone
-    has come to rescue your regular existances.\r\n\n1. Who are you?, How did you
-    get here?"
+    has come to rescue your regular existances.\r"
+  optionsText:
+  - '"Who are you?, how did you get here?"'
   nextStoryStates:
   - {fileID: 11400000, guid: 85a7a1d2036685f488db7b8a3b02d56a, type: 2}
+  active: 1

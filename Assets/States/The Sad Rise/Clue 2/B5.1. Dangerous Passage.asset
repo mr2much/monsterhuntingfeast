@@ -13,8 +13,11 @@ MonoBehaviour:
   m_Name: B5.1. Dangerous Passage
   m_EditorClassIdentifier: 
   stateStoryText: "You see a narrow path upahead that goes down the mountain, the
-    tremors keep intensifying as you keep moving closer.\r\n\n1. Keep going.\r\n\n2.
-    Go back."
+    tremors keep intensifying as you keep moving closer.\r"
+  optionsText:
+  - Keep going.
+  - Go back.
   nextStoryStates:
   - {fileID: 11400000, guid: db4ecc7ac4f6c674383bdeac781f7636, type: 2}
   - {fileID: 11400000, guid: 98ef1a3136ebc5449a1d1a0df7fed455, type: 2}
+  active: 1

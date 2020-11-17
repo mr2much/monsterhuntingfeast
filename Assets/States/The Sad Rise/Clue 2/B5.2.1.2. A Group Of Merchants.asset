@@ -12,13 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
   m_Name: B5.2.1.2. A Group Of Merchants
   m_EditorClassIdentifier: 
-  stateStoryText: "\"We are just a simple group of merchants. We were trying to get
+  stateStoryText: '"We are just a simple group of merchants. We were trying to get
     to the Zandori Empire when these beasts jumped from the rocky ground below us.
     They started tearing apart our carriage and we managed to run all the way from
-    the path until we arrived here and climbed this huge rock.\n\nWe have been here
-    holding onto our lives for around 5 hours.\"\n\nOne of the men says before breaking
-    down in tears.\n\n\n1. The Stone grabs his 'weapons', it's time to be a hero.\r\n\n2.
-    Oh, I see. Well, in that case, have a nice rest of the day.\r"
+    the path until we arrived here and climbed this huge rock.
+
+
+    We have been here holding onto our lives for around 5 hours."
+
+
+    One of the men says before breaking down in tears.'
+  optionsText:
+  - The Stone grabs his 'weapons', it's time to be a hero.
+  - '"Oh, in that case, have a nice rest of the day."'
   nextStoryStates:
   - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}
   - {fileID: 11400000, guid: ad72797d7d79ca944a90e59b6795926a, type: 2}
+  active: 1

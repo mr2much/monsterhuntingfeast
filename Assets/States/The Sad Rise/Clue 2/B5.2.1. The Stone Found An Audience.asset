@@ -14,8 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stateStoryText: "The path leads you to a plateau where you find three Land Sharks
     swimming in the solid rock, circling another large rock among which are standing
-    two men, and three women, crying in terror and hugging each other tightly.\r\n\n1.
-    Stay hidden and asses the situation.\r\n\n2. Who are you?, how did you get here?"
+    two men, and three women, crying in terror and hugging each other tightly.\r"
+  optionsText:
+  - Stay hidden and asses the situation.
+  - '"Who are you?, how did you get here?"'
   nextStoryStates:
   - {fileID: 11400000, guid: 93e22dc41b166dc4da6a320bad6fd3d4, type: 2}
   - {fileID: 11400000, guid: 85a7a1d2036685f488db7b8a3b02d56a, type: 2}
+  active: 1

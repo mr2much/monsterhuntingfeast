@@ -13,10 +13,13 @@ MonoBehaviour:
   m_Name: B5. Suspicious Tremors - Clue 2
   m_EditorClassIdentifier: 
   stateStoryText: "You walk in the direction where you felt the tremors. As you move
-    closer, they seem to intensify in magnitude.\r\n\n1. Keep going further.\r\n\n2.
-    Go check the explosions coming from the South-West..\r\n\n3. Go check the debris
-    you saw back there."
+    closer, they seem to intensify in magnitude.\r"
+  optionsText:
+  - Keep going further.
+  - Go check the explosions coming from the South-West.
+  - Go check the debris you saw back there.
   nextStoryStates:
   - {fileID: 11400000, guid: e106b2363d9530149b0b3fbcbb50de43, type: 2}
   - {fileID: 11400000, guid: 13df2a7e68fbfea468471f2093df6d2f, type: 2}
   - {fileID: 11400000, guid: 4531cbedb441d7d4ca38135fa6012701, type: 2}
+  active: 1

@@ -14,8 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stateStoryText: "You stay hidden without making the slightest sound while you try
     to determine the best course of action. While  you're observing, a fourth Land
-    Shark emerges from the ground, standing right behind you.\r\n\n1. Face the creature
-    head on.\r\n\n2. Jump back, getting closer to the people."
+    Shark emerges from the ground, standing right behind you.\r"
+  optionsText:
+  - Face the creature head on.
+  - Jump back, get closer to the people.
   nextStoryStates:
   - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}
   - {fileID: 11400000, guid: 10928c3799edb4f46891c1b8ce78f89c, type: 2}
+  active: 1

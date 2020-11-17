@@ -14,9 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stateStoryText: "You turn and try to leave, but without realizing it, the creatures
     are also circling around you. It seems that your fate is now the same as the traveling
-    merchants'.\r\n\n1. Fight the creatures head on.\r\n\n2. What a stupid plot, this
-    whole situation lacks any kind of sense or direction, it must have been written
-    by someone that's in the process of learning how to make a video game."
+    merchants'.\r"
+  optionsText:
+  - Fight the creatures head on.
+  - '"What''s going on?, this whole situation lacks any kind of sense or direction,
+    we, we are trapped in the plot of some game."'
   nextStoryStates:
   - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}
   - {fileID: 11400000, guid: 80aa3bfc22647424b9c9e166b18d742b, type: 2}
+  active: 1

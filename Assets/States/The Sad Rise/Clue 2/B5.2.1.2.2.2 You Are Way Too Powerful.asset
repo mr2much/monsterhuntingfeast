@@ -17,9 +17,11 @@ MonoBehaviour:
     and you hear as if a large piece of cloth was tearing itself apart. You turn to
     look in the direction where the sound is originating from and you see a blinding
     light. Based on your previous experiences, you immediately recognize this phenomenon,
-    you have broken the Fourth Wall.\r\n\n1. \"Come with The Stone if you want to
-    leave.\" Jump in the light.\r\n\n2. \"Go ahead, jump into the light. The Stone
-    will follow you afterwards.\""
+    you have broken the Fourth Wall.\r"
+  optionsText:
+  - '"Come with The Stone if you want to leave." Jump in the light.'
+  - '"Go ahead, jump into the light. The Stone will follow you afterwards."'
   nextStoryStates:
   - {fileID: 11400000, guid: cc89556a949cdb84495a7d0efeccd0ba, type: 2}
   - {fileID: 11400000, guid: 0221d9f3a5ebd654291349bbcad7eacd, type: 2}
+  active: 1

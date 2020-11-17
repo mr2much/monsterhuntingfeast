@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   stateStoryText: "You jump into the light and you find yourself rapidly traveling
     inside of a luminous tunnel. You close your eyes, relax and let yourself be carried
-    away, as you are used to.\r\n\n1. Fall asleep and enjoy the ride."
+    away, as you are used to.\r"
+  optionsText:
+  - Fall asleep and enjoy the ride.
   nextStoryStates:
   - {fileID: 11400000, guid: 86b613f6310bd224f92a36dad10bac6a, type: 2}
+  active: 1

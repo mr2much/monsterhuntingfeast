@@ -17,6 +17,9 @@ MonoBehaviour:
     several of them fighting against each other while others watch them, probably
     the males competing for the females' attention. Suddenly, you feel the ground
     shaking and hear rocks cracking. The sound seems to be originating from really
-    really close.\r\n\n1. Look behind you."
+    really close.\r"
+  optionsText:
+  - Look behind you.
   nextStoryStates:
   - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}
+  active: 1

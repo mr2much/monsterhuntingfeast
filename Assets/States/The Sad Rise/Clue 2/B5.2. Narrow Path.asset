@@ -17,8 +17,11 @@ MonoBehaviour:
     side of you like two towering walls. After about 45 minutes of following the tremors,
     you can now hear the sounds of rocks being cracked down accompanied by multiple
     loud explosions and you make it to an intersection. To the left, the decline keeps
-    going further down, and up ahead, the path starts ascending.\r\n\n1. Keep walking
-    forward.\r\n\n2. Take the left path and keep going down the mountain."
+    going further down, and up ahead, the path starts ascending.\r"
+  optionsText:
+  - Keep walking forward.
+  - Take the left path and keep going down the mountain.
   nextStoryStates:
   - {fileID: 11400000, guid: fa42c5a7c3149e5498f7a2bfb40e4cdb, type: 2}
   - {fileID: 11400000, guid: fa42c5a7c3149e5498f7a2bfb40e4cdb, type: 2}
+  active: 1
