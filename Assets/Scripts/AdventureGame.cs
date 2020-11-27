@@ -18,6 +18,7 @@ public class AdventureGame : MonoBehaviour
     }
 
     [SerializeField] Text textComponent;
+    [SerializeField] Text optionsTextComponent;
     [SerializeField] State startingState;
     private Dictionary<int, Choice> options = new Dictionary<int, Choice>();
     private State state;    
