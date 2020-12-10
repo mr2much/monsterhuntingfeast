@@ -94,13 +94,21 @@ public class AdventureGame : MonoBehaviour
     }
 
     private void DisplayChoices()
-    {   
+    {
+        this.optionsTextComponent.text = "";
+
         foreach(var item in options)
         {
             var choiceIndex = item.Key + 1;
-            var choice = item.Value;
+            var choice = item.Value;            
 
-            this.textComponent.text += "\n" + choiceIndex + ". " + choice.description;
+            this.optionsTextComponent.text += choiceIndex + ". " + choice.description;
+
+            if(choiceIndex != options.Count)
+            {
+                this.optionsTextComponent.text += '\n';
+            }
+            // this.textComponent.text += "\n" + choiceIndex + ". " + choice.description;
         }
     }    
 }
