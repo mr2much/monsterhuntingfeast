@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: G1.1. You Flexing On Me Bro
+  m_EditorClassIdentifier: 
+  stateStoryText: Your muscles tense up as the bald man tries pushing you back, despite
+    not being able to force you to move an inch, he keeps struggling while you stare
+    at him with a mildly amused look on your face. But you focus so much on him, that
+    the other guy manages to snatch his sword away from your grasp, and promptly slashes
+    you with it.
+  optionsText:
+  - Game Over!
+  nextStoryStates:
+  - {fileID: 11400000, guid: 4ea8d6abd0bec6d48a5d31a2f8632e88, type: 2}
+  active: 1

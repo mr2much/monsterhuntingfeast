@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: G1.3. You Want It, Take It
+  m_EditorClassIdentifier: 
+  stateStoryText: You let go of the guy's blade and he loses balance, falling on his
+    back. The bald guy takes advantage of this distraction and pushes you back, making
+    you fall too and he falls on top of you. The toothless one with the blade jumps
+    back on his feet and runs towards you, his sword raised high above his head, as
+    soon as you are within his range, he plunges his sword down, aiming for your head.
+  optionsText:
+  - Use the bald guy as a meat shield.
+  - Dodge the sword.
+  nextStoryStates:
+  - {fileID: 11400000, guid: 04fbd395960b464439b0632a85c3014a, type: 2}
+  - {fileID: 11400000, guid: 83ba3ad8ae0bdb24bb303d151f118b01, type: 2}
+  active: 1

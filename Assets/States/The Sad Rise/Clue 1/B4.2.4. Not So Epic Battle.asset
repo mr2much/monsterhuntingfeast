@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
-  m_Name: B4.2.4. Batalla No Tan Epica
+  m_Name: B4.2.4. Not So Epic Battle
   m_EditorClassIdentifier: 
   stateStoryText: "The Land Shark tries with all its might to land a bite on you,
     the sound of its jaws snapping shut reverberate across the rocky terrain, but

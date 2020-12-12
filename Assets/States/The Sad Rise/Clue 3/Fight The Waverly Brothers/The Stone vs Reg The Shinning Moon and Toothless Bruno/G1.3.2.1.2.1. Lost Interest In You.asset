@@ -10,7 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
-  m_Name: State 4
+  m_Name: G1.3.2.1.2.1. Lost Interest In You
   m_EditorClassIdentifier: 
   stateStoryText: 
-  nextStoryStates: []
+  optionsText:
+  - Go check the items.
+  - Go back and keep investigating the other clues.
+  nextStoryStates:
+  - {fileID: 11400000, guid: 364d6298d746e80439dda94b12da276e, type: 2}
+  - {fileID: 11400000, guid: 98ef1a3136ebc5449a1d1a0df7fed455, type: 2}
+  active: 1

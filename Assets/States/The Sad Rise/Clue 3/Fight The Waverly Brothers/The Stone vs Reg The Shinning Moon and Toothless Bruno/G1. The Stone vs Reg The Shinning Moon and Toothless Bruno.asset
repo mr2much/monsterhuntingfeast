@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: G1. The Stone vs Reg The Shinning Moon and Toothless Bruno
+  m_EditorClassIdentifier: 
+  stateStoryText: The two brothers exchange glances, the one with the sword starts
+    pulling it away frantically, while the bald one releases the handle of his weapon
+    and tries tackling you.
+  optionsText:
+  - Resist his pitiful attempt.
+  - Hit him with the axe's handle.
+  - Let go of the sword.
+  nextStoryStates:
+  - {fileID: 11400000, guid: d8713f969df91cb418602b3ea3009813, type: 2}
+  - {fileID: 11400000, guid: 7a9fa7c64940a144ca05163d4f0a6867, type: 2}
+  - {fileID: 11400000, guid: 173dedddda1158e4a917b2f3a3f72c3d, type: 2}
+  active: 1

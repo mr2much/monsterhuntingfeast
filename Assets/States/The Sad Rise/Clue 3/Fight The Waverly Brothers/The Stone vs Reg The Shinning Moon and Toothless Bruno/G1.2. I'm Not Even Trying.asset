@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
+  m_Name: G1.2. I'm Not Even Trying
+  m_EditorClassIdentifier: 
+  stateStoryText: You shake your head, pressing your lips together and smack the guy
+    behind the neck with his axe's handle. The man falls limply on the ground and
+    then you turn to the guy that's frantically pulling onto his sword, he stares
+    at you with shock in his eyes, and lets go of his weapon. He starts turning to
+    run away.
+  optionsText:
+  - Let him go.
+  - Slash him with the axe.
+  - Stab him with the sword.
+  - Cross slash him with both weapons.
+  nextStoryStates:
+  - {fileID: 11400000, guid: 8f36d2212614b9e4bbf82d7d68a3a52c, type: 2}
+  - {fileID: 11400000, guid: e97ea223c3661124b8b5b53a422cd05e, type: 2}
+  - {fileID: 11400000, guid: 42e426fc002e8af4eb1d2c992734c7bd, type: 2}
+  - {fileID: 11400000, guid: a6d4e64e9b7eb644797853b9ab1c841d, type: 2}
+  active: 1
