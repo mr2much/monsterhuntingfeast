@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
   m_Name: G1.3.2.1.1. Takes Longer Than You Thought
   m_EditorClassIdentifier: 
-  stateStoryText: 
+  stateStoryText: You wrap your hands around the bald guy's neck and squeeze it, but
+    it seems that you miscalculated how long it actually takes to strangle someone,
+    apparently it takes longer than what little time you have available. The bald
+    guy manages to grab a broken piece of the blade with his bare hand and jams it
+    through your neck multiple times. You bleed to death before he passes out.
   optionsText:
   - Game Over!
   nextStoryStates:

@@ -12,10 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
   m_Name: G1.3.2.1. You Pay It
   m_EditorClassIdentifier: 
-  stateStoryText: 
+  stateStoryText: You kick the toothless guy's legs while he's distracted. He falls
+    on his back, hitting his head against a rock nearby which knocks him unconscious.
+    The bald guy, who is still on top of you, tries to reach for one of the pieces
+    of the blade that are dangerously close to your neck.
   optionsText:
   - Strangle him.
-  - Push him away.
+  - The Stone pushes the bald man away.
   nextStoryStates:
   - {fileID: 11400000, guid: fe6d7f6c052c01441817b7f1c54f5b79, type: 2}
   - {fileID: 11400000, guid: d7804c4c37c59354b9ab44644c91fd8c, type: 2}

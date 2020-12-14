@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
-  m_Name: G1.3.2.1.2.1. Lost Interest In You
+  m_Name: G1.3.2.1.2.1. I Lost Interest In You
   m_EditorClassIdentifier: 
-  stateStoryText: 
+  stateStoryText: "\"If you lost your will to fight, The Stone lost his motivation
+    to keep on fighting you!\"\r\n\r\nThe bald guy frantically stands up and starts
+    running away from you, leaving behind his two unconscious brothers. You watch
+    him until he's no longer in sight and then think about your next course of action."
   optionsText:
   - Go check the items.
   - Go back and keep investigating the other clues.

@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
   m_Name: G1.3.2.1.2. Get Off Me
   m_EditorClassIdentifier: 
-  stateStoryText: 
+  stateStoryText: You flex your muscles and take a deep breath, bracing your core
+    and with a single push, you manage to take him off of you before he grabs the
+    sword piece. You stand up still holding on to the large axe. The bald guy kneels
+    down and starts begging for his life.
   optionsText:
   - Spare him.
   - Kill him.

@@ -12,7 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
   m_Name: G1.3.1. Two For One
   m_EditorClassIdentifier: 
-  stateStoryText: 
+  stateStoryText: "With your strength, it is easy for you to overpower the bald guy.
+    You lift him and pull him in between you and the sword, using him as a meat shield.
+    The blade of the sword goes through him as if it was a hot knife piercing a stick
+    of butter, also stabbing your heart with ease, and so the Toothless guy kills
+    the both of you. The last thing you manage to see is the guy crying for his brother's
+    death.\r"
   optionsText:
   - Game Over!
   nextStoryStates:

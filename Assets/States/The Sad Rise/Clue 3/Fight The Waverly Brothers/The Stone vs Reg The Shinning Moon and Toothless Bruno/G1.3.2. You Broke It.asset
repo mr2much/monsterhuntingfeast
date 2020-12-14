@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f7ccf2d318f0434f85e6e19f912e8a9, type: 3}
   m_Name: G1.3.2. You Broke It
   m_EditorClassIdentifier: 
-  stateStoryText: 
+  stateStoryText: "You manage to jerk your head to one side, just in time for the
+    sword to shatter on impact against the rocky ground mere centimeters from your
+    neck. The toothless guy remains motionless, staring dumbfoundedly at the pommel
+    of his weapon.\r"
   optionsText:
   - Sweep the toothless guy's feet.
   nextStoryStates:
