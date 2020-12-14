@@ -23,7 +23,7 @@ MonoBehaviour:
     circles around the carriage.\r"
   optionsText:
   - '"The name is The Stone, The Stone is looking for Land Sharks around these parts.
-    Have you seen any?'
+    Have you seen any?"'
   - Take a closer look at the items on the carriage.
   nextStoryStates:
   - {fileID: 11400000, guid: f2bdd56c057c5fe48b1d38ec734f7946, type: 2}

@@ -19,10 +19,10 @@ MonoBehaviour:
     to try different methods to open the chest. They're so focused on this task, that
     they don't notice you.\r\n\r\nOne of them is carrying an axe strapped behind his
     back, the other one is carrying a sword sheathed on his scabbard, and the other
-    one has two daggers, and on his belt, and the other one on his boot. They also
+    one has two daggers, one on his belt, and the other one on his boot. They also
     have matching tattoos of a wolf paw on the left side of his necks.\r"
   optionsText:
-  - '''Greetings, Random Citizens!"'
+  - '"Greetings, Random Citizens!"'
   - The Stone is going to walk closer to those explosions coming from the South-West.
   - The Stone is going to check the origin of those tremors coming from the East.
   nextStoryStates:
